@@ -63,11 +63,15 @@ I specialize in developing intelligent applications using modern technologies, w
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhargavibattula&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavibattula&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhargavibattula&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavibattula&layout=compact&theme=radical&cache_seconds=86400" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhargavibattula&theme=radical&cache_seconds=86400" height="170"/>
 </p>
 
 <p align="center">
