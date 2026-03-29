@@ -19,8 +19,6 @@ I specialize in developing intelligent applications using modern technologies, w
 
 ⚙️ I enjoy combining AI with full-stack development to create smart, impactful applications.<br><br>
 
-📈 Currently exploring advanced GenAI systems and building real-world projects.
-
 ---
 
 ## 🌐 Socials:
@@ -78,10 +76,10 @@ I specialize in developing intelligent applications using modern technologies, w
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhargavibattula&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavibattula&theme=react-dark"/>
 </p>
 
 ---
