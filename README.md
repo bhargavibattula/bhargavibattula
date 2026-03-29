@@ -71,10 +71,6 @@ I specialize in developing intelligent applications using modern technologies, w
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhargavibattula&theme=radical&cache_seconds=86400" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=bhargavibattula&theme=radical" height="170"/>
 </p>
 
