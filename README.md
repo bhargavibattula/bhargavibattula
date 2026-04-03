@@ -4,7 +4,9 @@
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Developer+🤖;MERN+Stack+Engineer+💻;Spring+Boot+Backend+Developer+⚡;" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Developer+🤖;MERN+Stack+Engineer+💻;Spring+Boot+Backend+Developer+⚡;" />
+</div>
 
 </div>
 
