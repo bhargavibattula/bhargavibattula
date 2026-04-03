@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Bharu&fontSize=70&fontColor=fff&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Developer+🤖;MERN+Stack+Engineer+💻;Spring+Boot+Backend+Developer+⚡;Future+Amazon+Intern+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Developer+🤖;MERN+Stack+Engineer+💻;Spring+Boot+Backend+Developer+⚡;" />
 
 </div>
 
@@ -21,14 +21,13 @@
 
 ## 🧠 Developer Mindset
 
-    const bharu = {
+    const Bhargavi Battula = {
         code: "daily",
         learn: "non-stop",
         focus: ["AI", "Backend", "System Design"],
-        goal: "Amazon Internship 🚀",
         
         lifeLoop: function() {
-            while(dreams_not_achieved) {
+            while(true) {
                 learn();
                 build();
                 fail();
@@ -37,23 +36,15 @@
         }
     };
 
----
-
-## 🔭 Current Focus
-
-- 🚀 Building **Deepfake Detection System (Image + Audio)**
-- 🤖 Working on **AI-powered apps (NexusAI)**
-- ⚙️ Learning **Spring Boot + System Design**
-- 📈 Practicing **DSA daily for interviews**
+--
 
 ---
 
 ## 🌟 What Makes Me Different
 
-- 🚀 I build **real-world impactful projects**, not tutorials  
-- 🧠 Strong DSA foundation (Striver + GFG completed)  
+- 🚀 I build **real-world impactful projects**  
+- 🧠 Strong DSA foundation 
 - ⚙️ Blend of **AI + Full Stack + Backend Systems**  
-- 🎯 Long-term focus: **FAANG-level preparation**
 
 ---
 
